@@ -1,4 +1,4 @@
-# BoolBnB - TEAM #2
+# BoolBnB
 >Front-End Environment
 
 Realizzazione di un progetto in Team per lo sviluppo di una webapp che permette di trovare e gestire l’affitto di appartamenti.
